@@ -11,7 +11,7 @@ package org.induction.constantdata;
 public class Constants {
 	public static final boolean NOCACHE = false;
 
-	public static final String CACHE_PATH = "C:/cache";
+	public static final String CACHE_PATH = "C:\\cache";
 
 	public static final String PROXY_ERROR = "HTTP/1.1 200 OK\nServer: Induction\n"
 			+ "Content-Type: text/plain; charset=windows-1251\n\n";
